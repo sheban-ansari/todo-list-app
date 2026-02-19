@@ -25,7 +25,6 @@ A fully functional and responsive To-Do List web application built using HTML, C
 * JavaScript – Functionality & DOM Manipulation
 * Local Storage API – Data Persistence
 
-```
 
 ##  How It Works
 
