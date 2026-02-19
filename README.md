@@ -18,6 +18,12 @@ A fully functional and responsive To-Do List web application built using HTML, C
 
 ---
 
+## Live Demo
+
+[Click Here to View Project](https://todo-list-app-sigma-azure.vercel.app/)
+
+---
+
 ##  Technologies Used
 
 * HTML5 – Structure
